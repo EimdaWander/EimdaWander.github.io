@@ -1,0 +1,43 @@
+.mainTitle{
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+	margin: 0;
+	font-size: 300%;
+}
+
+.name{
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+	margin: -25px 0px 0px 280px;
+}
+
+.titleHeader{
+	background-color: #e6ffff;
+	margin: 0px;
+	padding: 0px;
+}
+
+.links{
+	text-align: center;
+	font-size: 120%;
+	padding: 10px 0px 20px 0px;
+	margin: 0px;
+}
+
+.updateMenu{
+	border-left: 400px solid #330033;
+  	height: 100vh;
+  	position: absolute;
+  	margin-left: 50px;
+}
+
+.mainMenuPart{
+	margin-left: 450px;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
